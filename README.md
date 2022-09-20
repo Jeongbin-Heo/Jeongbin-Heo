@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 💻 Tech Stack 💻
+### :books: Tech Stack :books:
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### 📲 Contact 📲
+### :link: Contact :link: 
 
 </div>
 
