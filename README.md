@@ -1,10 +1,8 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CFFFE5&fontColor=443731&animation=scaleIn&height=200&section=footer&text=Jeongbin%20%20Heo&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CFFFE5&fontColor=443731&animation=scaleIn&height=100&section=footer&text=Jeongbin%20%20Heo&fontSize=30)
 
 </div>
-
-### &nbsp;
 
 <div align=center>
 
@@ -20,8 +18,6 @@
 
 </div>
 
-### &nbsp;
-
 <div align=center>
 
 ### 💻 Tech Stack
@@ -31,8 +27,6 @@
 <div align=center>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white"/> <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/> <img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"/>
 </div>
-
-### &nbsp;
 
 <div align=center>
 
