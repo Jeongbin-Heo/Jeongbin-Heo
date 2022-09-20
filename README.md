@@ -14,27 +14,46 @@
 
 <div align="center">
 
-### :books: Tech Stack :books:
+### :books: Skills :books:
 
 </div>
 
 <div align="center">
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white"/> <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/> <img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"/>
+**used at least once**
+
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=Metabase&logoColor=white"/></a>
+
 
 </div>
 
 <div align="center">
 
-### :link: Contact :link: 
+### :mailbox: Contact Me :mailbox: 
 
 </div>
 
 <div align="center">
 
-<a href="https://blog.naver.com/mesutoezil11"><img alt="Blog" src ="https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
-<a href="https://lizard-microwave-a1a.notion.site/DS-b83a2fb03c0e434ea7361a42929976e0"><img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
-<a href="mesutoezil11@naver.com"><img alt="Email" src ="https://img.shields.io/badge/EMail-005FF9.svg?&style=for-the-badge&logo=Mail.ru&logoColor=white"/>
+<a href="https://blog.naver.com/mesutoezil11" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="mesutoezil11@naver.com" target="_blank"><img src="https://img.shields.io/badge/mesutoezil11@naver.com-005FF9?style=flat-square&logo=Mail.ru&logoColor=white"/></a>
+<a href="https://lizard-microwave-a1a.notion.site/DS-b83a2fb03c0e434ea7361a42929976e0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
 
 </div>
 
