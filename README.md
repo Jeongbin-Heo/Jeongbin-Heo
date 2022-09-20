@@ -1,13 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=A4F0D8&fontColor=443731&height=200&section=header&text=Jeongbin%20Heo&fontSize=60)
+### 🌱 안녕하세요! Jr. Data Scientist 허정빈입니다.
 
 </div>
 
 
 <div align="center">
 
-![AstonishingDentalGermanspitz-size_restricted](https://user-images.githubusercontent.com/97662174/191172662-3890456a-6f14-47fe-a13f-ca064eeac1e4.gif)
+<img width="485" alt="스크린샷 2022-09-20 오후 2 15 50" src="https://user-images.githubusercontent.com/97662174/191173201-798ca83b-e314-4c83-ad87-7449984fe066.png">
 
 </div>
 
