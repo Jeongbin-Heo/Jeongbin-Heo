@@ -52,7 +52,7 @@
 
 <a href="https://blog.naver.com/mesutoezil11" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mesutoezil11@naver.com" target="_blank"><img src="https://img.shields.io/badge/mesutoezil11@naver.com-005FF9?style=flat-square&logo=Mail.ru&logoColor=white"/></a>
-<a href="https://lizard-microwave-a1a.notion.site/DS-b83a2fb03c0e434ea7361a42929976e0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://lizard-microwave-a1a.notion.site/DS-b83a2fb03c0e434ea7361a42929976e0" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
 </div>
