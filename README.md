@@ -51,7 +51,6 @@
 <div align="center">
 
 <a href="https://blog.naver.com/mesutoezil11" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="mesutoezil11@naver.com" target="_blank"><img src="https://img.shields.io/badge/mesutoezil11@naver.com-2DB400?style=flat-square&logo=Mail.ru&logoColor=white"/></a>
 <a href="https://lizard-microwave-a1a.notion.site/Jeongbin-Heo-8f831803d1f44e5f88d6bb572b9158ae" target="_blank"><img src="https://img.shields.io/badge/Profile-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
