@@ -1,6 +1,6 @@
 <div align="center">
 
-### :raised_hands: 안녕하세요! 주니어 데이터 사이언티스트 허정빈입니다. :blush:
+### :raised_hands: 안녕하세요! 허정빈입니다. :blush:
 
 </div>
 
